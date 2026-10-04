@@ -1,0 +1,16 @@
+[project]
+name = "matrix-protein-rain"
+version = "1.0.0"
+description = "Matrix digital rain effect applied to PyMOL protein images"
+authors = ["Jesus Seco, PhD"]
+channels = ["conda-forge"]
+platforms = ["linux-64", "osx-64", "osx-arm64", "win-64"]
+
+[dependencies]
+python = ">=3.10"
+numpy = ">=1.24"
+pillow = ">=10.0"
+
+[tasks]
+run = "python matrix_protein.py"
+help = "python matrix_protein.py --help"
