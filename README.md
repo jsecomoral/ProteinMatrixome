@@ -20,7 +20,7 @@ background.
 
 | Input (PyMOL cartoon) | Output (Matrix rain) |
 |:---:|:---:|
-| Green protein on black background | Falling green characters forming the protein shape |
+| <p align="center"><img src="protein.png" alt="Green Protein in Black Background" width="500" |  <matrix_protein.gif |
 
 ## How It Works
 
