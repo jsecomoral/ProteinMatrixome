@@ -20,7 +20,7 @@ background.
 
 | Input (PyMOL cartoon) | Output (Matrix rain) |
 |:---:|:---:|
-| <p align="center"><img src="protein.png" alt="Green Protein in Black Background" width="500" |  <matrix_protein.gif |
+| <p align="center"><img src="protein.png" alt="Green Protein in Black Background" width="500"></p> |  <p align="center"> matrix_protein.gif </p> |
 
 ## How It Works
 
